@@ -6,8 +6,8 @@ const Navbar = () => {
         <div>
             <div className='container-fluid nav-bg'>
                 <div className='row'>
-                    <div className='col-10 mx-auto'>
-                        <nav className="navbar navbar-expand-lg">
+                    <div className='col-10 mx-auto mb-5'>
+                        <nav className="navbar navbar-expand-lg navbar-light bg-light">
                             <div className="container-fluid">
                                 <Link className="navbar-brand" to="#">WebTech</Link>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
